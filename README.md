@@ -60,7 +60,6 @@ Está pensado para peques inquietos y muy despiertos (a partir de 6–8 años), 
 2. Ábrelo en el móvil. Android pedirá permitir *instalar apps de origen desconocido* para el navegador o el gestor de archivos: acéptalo solo para esta instalación.
 3. ¡A jugar!
 
-Puedes comprobar que el archivo no ha sido modificado comparando su huella SHA-256 con la publicada en la release (ver [docs/COMPILAR.md](docs/COMPILAR.md#verificar-la-descarga)).
 
 > Próximamente también en Google Play.
 
