@@ -92,11 +92,8 @@ cd android_game-math-starfighters-
 ./gradlew assembleDebug        # Windows: gradlew.bat assembleDebug
 ```
 
-El APK queda en `app/build/outputs/apk/debug/`. Para builds firmados de release y el paquete `.aab` de Google Play, consulta [docs/COMPILAR.md](docs/COMPILAR.md).
 
-### Probar en el navegador
 
-El juego es HTML5: abre `app/src/main/assets/index.html` en Chrome o Edge y juega con la barra espaciadora.
 
 ## Estructura del proyecto
 
